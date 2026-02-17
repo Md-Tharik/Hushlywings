@@ -1,7 +1,7 @@
 {
   "name": "Hushly Wings: Hand Tracking Adventure",
   "short_name": "Wings",
-  "start_url": "hushlywings.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#1a0533",
   "theme_color": "#FFD700",
